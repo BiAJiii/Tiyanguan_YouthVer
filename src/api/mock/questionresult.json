@@ -1,0 +1,77 @@
+{
+	"code": 0,
+	"message": "成功",
+	"data": {
+		"data": {
+			"name": "手机银行体验问卷调查",
+			"questionResultList": [
+				{
+					"name": "手机银行使用过程中，是否存在恶性漏洞？",
+					"answerNum": 8,
+					"sort": 1,
+					"optionResultList": [
+						{
+							"name": "有",
+							"chosenNum": 4,
+							"sort": 1
+						},
+						{
+							"name": "没有",
+							"chosenNum": 4,
+							"sort": 2
+						}
+					]
+				},
+				{
+					"name": "手机银行使用过程中，界面UI的体验如何",
+					"answerNum": 8,
+					"sort": 2,
+					"optionResultList": [
+						{
+							"name": "很好",
+							"chosenNum": 4,
+							"sort": 1
+						},
+						{
+							"name": "一般",
+							"chosenNum": 0,
+							"sort": 2
+						},
+						{
+							"name": "很差",
+							"chosenNum": 4,
+							"sort": 3
+						}
+					]
+				},
+				{
+					"name": "手机银行使用过程中，整体的体验如何？",
+					"answerNum": 8,
+					"sort": 3,
+					"optionResultList": [
+						{
+							"name": "非常满意",
+							"chosenNum": 2,
+							"sort": 1
+						},
+						{
+							"name": "还行",
+							"chosenNum": 2,
+							"sort": 2
+						},
+						{
+							"name": "及格",
+							"chosenNum": 0,
+							"sort": 3
+						},
+						{
+							"name": "有待提高",
+							"chosenNum": 4,
+							"sort": 4
+						}
+					]
+				}
+			]
+		}
+	}
+}

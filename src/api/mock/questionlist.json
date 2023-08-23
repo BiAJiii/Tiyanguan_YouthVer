@@ -1,0 +1,105 @@
+
+    {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "data": {
+                "id": 1,
+                "name": "手机银行体验问卷调查",
+                "taskId": 123,
+                "questionNum": 3,
+                "questionDtoList": [
+                    {
+                        "id": 1,
+                        "name": "手机银行使用过程中，是否存在恶性漏洞？",
+                        "type": 1,
+                        "sort": 1,
+                        "optionNum": 2,
+                        "optionsList": [
+                            {
+                                "id": 1,
+                                "name": "有",
+                                "questionId": 1,
+                                "sort": 1,
+                                "chosenNum": 0
+                            },
+                            {
+                                "id": 2,
+                                "name": "没有",
+                                "questionId": 1,
+                                "sort": 2,
+                                "chosenNum": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "手机银行使用过程中，界面UI的体验如何",
+                        "type": 1,
+                        "sort": 2,
+                        "optionNum": 3,
+                        "optionsList": [
+                            {
+                                "id": 3,
+                                "name": "很好",
+                                "questionId": 2,
+                                "sort": 1,
+                                "chosenNum": 0
+                            },
+                            {
+                                "id": 4,
+                                "name": "一般",
+                                "questionId": 2,
+                                "sort": 2,
+                                "chosenNum": 0
+                            },
+                            {
+                                "id": 5,
+                                "name": "很差",
+                                "questionId": 2,
+                                "sort": 3,
+                                "chosenNum": 0
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "手机银行使用过程中，整体的体验如何？",
+                        "type": 1,
+                        "sort": 3,
+                        "optionNum": 4,
+                        "optionsList": [
+                            {
+                                "id": 6,
+                                "name": "非常满意",
+                                "questionId": 3,
+                                "sort": 1,
+                                "chosenNum": 0
+                            },
+                            {
+                                "id": 7,
+                                "name": "还行",
+                                "questionId": 3,
+                                "sort": 2,
+                                "chosenNum": 0
+                            },
+                            {
+                                "id": 8,
+                                "name": "及格",
+                                "questionId": 3,
+                                "sort": 3,
+                                "chosenNum": 0
+                            },
+                            {
+                                "id": 9,
+                                "name": "有待提高",
+                                "questionId": 3,
+                                "sort": 4,
+                                "chosenNum": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }

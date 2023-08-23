@@ -1,0 +1,68 @@
+{
+    "code": 0, 
+    "message": "成功", 
+    "data": {
+    "data": [
+    {
+    "id": 14, 
+    "userId": 14, 
+    "credits": 250, 
+    "userName": "songshisi" 
+    },
+    {
+    "id": 13, 
+    "userId": 13, 
+    "credits": 200, 
+    "userName": "weishisan" 
+    },
+    {
+    "id": 7, 
+    "userId": 7, 
+    "credits": 160, 
+    "userName": "liuqi" 
+    },
+    {
+    "id": 6, 
+    "userId": 6, 
+    "credits": 150, 
+    "userName": "zhaoliu" 
+    },
+    {
+    "id": 15, 
+    "userId": 15, 
+    "credits": 100, 
+    "userName": "sunshiwu" 
+    },
+    {
+    "id": 2, 
+    "userId": 2, 
+    "credits": 100, 
+    "userName": "niue" 
+    },
+    {
+    "id": 4, 
+    "userId": 4, 
+    "credits": 100, 
+    "userName": "lisi" 
+    },
+    {
+    "id": 3, 
+    "userId": 3, 
+    "credits": 90, 
+    "userName": "zhangsan" 
+    },
+    {
+    "id": 8, 
+    "userId": 8, 
+    "credits": 50, 
+    "userName": "xuba" 
+    },
+    {
+    "id": 9, 
+    "userId": 9, 
+    "credits": 30, 
+    "userName": "caojiu" 
+    }
+    ] 
+    } 
+}

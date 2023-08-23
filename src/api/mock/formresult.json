@@ -1,0 +1,22 @@
+{
+    "data": {
+        "tbBugDetailVO": {
+          "taskId": 0,
+          "orderId": 2,
+          "name": "未跳转到功能申请页面",
+          "status": 0,
+          "type": 0,
+          "frequency": 1,
+          "process": "进入网上商城，点击开通电子支付功能按钮",
+          "actualResult": "返回页面还是以前的页面",
+          "expectedResult": "返回的页面应该为功能申请首页面",
+          "createTime": "2023-07-21T08:30:25",
+          "creator": 112,
+          "tbBugAttachListVO": [
+            {
+              "imageUrl": "https://srb-object.oss-cn-guangzhou.aliyuncs.com/bug/2023/07/25/fac93074-864c-40ce-a484-aeedffa6bb96.jpg"
+            }
+          ]
+        }
+    }
+}

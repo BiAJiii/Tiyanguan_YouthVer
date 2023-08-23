@@ -1,0 +1,30 @@
+{
+  "id": "4194234",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23026296",
+      "name": "铜牌",
+      "font_class": "tongpai",
+      "unicode": "e8b1",
+      "unicode_decimal": 59569
+    },
+    {
+      "icon_id": "23026297",
+      "name": "银牌",
+      "font_class": "yinpai",
+      "unicode": "e8b2",
+      "unicode_decimal": 59570
+    },
+    {
+      "icon_id": "23026298",
+      "name": "金牌",
+      "font_class": "jinpai",
+      "unicode": "e8b3",
+      "unicode_decimal": 59571
+    }
+  ]
+}

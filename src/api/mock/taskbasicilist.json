@@ -1,0 +1,136 @@
+
+
+    {
+        "code":0,
+        "message":"成功",
+        "data":{
+            "data":[
+                {"id":1,
+                "name":"任务1",
+                "level":1,
+                "status":0,
+                "type": 0,
+                "requiredNum":100,
+                "credits": 30, 
+                "enrollNum":0,
+                "endTime":"2023-08-31T00:00:00",
+                "enrollStartTime":"2023-07-01T00:00:00",
+                "enrollEndTime":"2023-07-19T00:00:00",
+                "startTime":"2023-08-01T00:00:00",
+                "createTime":"2023-07-20T00:33:19",
+                "creator":111,
+                "tbTaskDetail": {
+                    "id":1,
+                    "description": "111在数据库中查询一条任务记录，返回结果至前端展示", 
+                    "qualification": "了解手机基本操作", 
+                    "process": "1、打开手机银行app;2、点击任务查询模块;3、查看页面;" 
+                    } 
+            },
+                {"id":1,
+                "name":"任务1",
+                "level":1,
+                "status":0,
+                "type": 0,
+                "credits": 40, 
+                "requiredNum":100,
+                "enrollNum":0,
+                "endTime":"2023-08-31T00:00:00",
+                "enrollStartTime":"2023-07-01T00:00:00",
+                "enrollEndTime":"2023-07-19T00:00:00",
+                "startTime":"2023-08-01T00:00:00",
+                "createTime":"2023-07-20T00:33:19",
+                "creator":111,
+                "tbTaskDetail": {
+                    "id":1,
+                    "description": "111在数据库中查询一条任务记录，返回结果至前端展示", 
+                    "qualification": "了解手机基本操作", 
+                    "process": "1、打开手机银行app;2、点击任务查询模块;3、查看页面;" 
+                    } 
+            },
+                {"id":1,
+                "name":"任务1",
+                "level":1,
+                "status":0,
+                "type": 0,
+                "credits": 50, 
+                "requiredNum":100,
+                "enrollNum":0,
+                "endTime":"2023-08-31T00:00:00",
+                "enrollStartTime":"2023-07-01T00:00:00",
+                "enrollEndTime":"2023-07-19T00:00:00",
+                "startTime":"2023-08-01T00:00:00",
+                "createTime":"2023-07-20T00:33:19",
+                "creator":111,
+                "tbTaskDetail": {
+                    "id":1,
+                    "description": "111在数据库中查询一条任务记录，返回结果至前端展示", 
+                    "qualification": "了解手机基本操作", 
+                    "process": "1、打开手机银行app;2、点击任务查询模块;3、查看页面;" 
+                    } 
+            },
+                {"id":2,
+                "name":"任务2",
+                "level":1,
+                "status":0,
+                "type": 0,
+                "credits": 10, 
+                "requiredNum":100,
+                "enrollNum":0,
+                "endTime":"2023-08-31T00:00:00",
+                "enrollStartTime":"2023-07-01T00:00:00",
+                "enrollEndTime":"2023-07-19T00:00:00",
+                "startTime":"2023-08-01T00:00:00",
+                "createTime":"2023-07-20T00:33:19",
+                "creator":111,
+                "tbTaskDetail": {
+                    "id":2,
+                    "description": "222在数据库中查询一条任务记录，返回结果至前端展示", 
+                    "qualification": "了解手机基本操作", 
+                    "process": "1、打开手机银行app;2、点击任务查询模块;3、查看页面;" 
+                    } },
+                {"id":3,
+                "name":"任务3",
+                "level":1,
+                "status":0,
+                "type": 1,
+                "requiredNum":100,
+                "credits": 100, 
+                "enrollNum":0,
+                "endTime":"2023-08-31T00:00:00",
+                "enrollStartTime":"2023-07-01T00:00:00",
+                "enrollEndTime":"2023-07-19T00:00:00",
+                "startTime":"2023-08-01T00:00:00",
+                "createTime":"2023-07-20T00:33:19",
+                "creator":111,
+                "tbTaskDetail": {
+                    "id":3,
+                    "description": "333在数据库中查询一条任数据库中查询一条任数据库中查询一条任数据库中查询一条任数据库中查询一条任数据库中查询一条任数据库中查询一条任务记录，返回结果至前端展示", 
+                    "qualification": "了解手机基手机基手机基手机基手机基手机基手机基手机基手机基手机基本操作", 
+                    "process": "1、打开手机银行app;2、点击任务点击任务点击任务点击任务点击任务点击任务点击任务点击任务点击任务点击任务点击任务点击任务查询模块;3、查看页面;" 
+                    } 
+                },
+                {"id":4,
+                "name":"任务4",
+                "level":1,
+                "status":0,
+                "type": 1,
+                "requiredNum":100,
+                "enrollNum":0,
+                "credits": 60, 
+                "endTime":"2023-08-31T00:00:00",
+                "enrollStartTime":"2023-07-01T00:00:00",
+                "enrollEndTime":"2023-07-19T00:00:00",
+                "startTime":"2023-08-01T00:00:00",
+                "createTime":"2023-07-20T00:33:19",
+                "creator":111,
+                "tbTaskDetail": {
+                    "id":4,
+                    "description": "333在数据库中查询一条任务记录，返回结果至前端展示", 
+                    "qualification": "了解手机基本操作", 
+                    "process": "1、打开手机银行app;2、点击任务查询模块;3、查看页面;" 
+                    } 
+                }
+            ]
+        }
+    }
+    
